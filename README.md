@@ -1,5 +1,5 @@
 # ISP
-# PRACTICA I
+# PRÁCTICA I
 ## INTEGRANTES 
 * LOOR BARRETO BORIS LEONEL
 * LOPEZ BASURTO LARISSA YULIANA 
@@ -14,4 +14,4 @@
 
 # REPARTICIÓN DE ENTIDADES 
 
-![image](https://github.com/NahomiMachuca/ISP/assets/89893604/3e84e2df-0227-4107-a537-a8cd35733077)
+![image](https://github.com/NahomiMachuca/ISP/assets/89893604/ad0fc197-691f-4702-b23e-99919fb4cc65)
