@@ -8,5 +8,10 @@
 * TRIVIÑO RAMOS NICOLLE ALEXANDRA
 * VILLAMAR ALCIVAR MARIA BELEN
 
+ # DIAGRAMA ENTIDAD RELACIÓN
+
   ![image](https://github.com/NahomiMachuca/ISP/assets/89893604/96d19cb2-47c9-4d15-b627-df56ca3ab56d)
 
+# REPARTICIÓN DE ENTIDADES 
+
+![image](https://github.com/NahomiMachuca/ISP/assets/89893604/3e84e2df-0227-4107-a537-a8cd35733077)
